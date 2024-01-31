@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_insert_left - function that inserts a node as the
- *			left-child of another node
+ *						left-child of another node
  * Description:function that inserts a node as the left-child
  * 				of another node
  *@perant:is a pointer to root node
