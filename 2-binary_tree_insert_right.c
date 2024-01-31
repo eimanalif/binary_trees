@@ -10,7 +10,7 @@
  * @perant: A pointer to the node.
  * @value: Is a data in the node.
  * Return: NULL or pointer.
-*/
+ */
 
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 {
