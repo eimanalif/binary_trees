@@ -2,13 +2,13 @@
 
 
 /**
- *binary_tree_insert_right - function that inserts a node as 
+ * binary_tree_insert_right - function that inserts a node as 
  				the right-child of another node
- *Description:function that inserts a node as the right-child
+ * Description:function that inserts a node as the right-child
  				of another node
- *@perant:is the root node
- *@value:is a data in the node
- *Return:NULL or pointer 
+ * @perant:a pointer to the node
+ * @value:is a data in the node
+ * Return:NULL or pointer 
  */
 
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
