@@ -6,6 +6,7 @@
  * binary_tree_uncle - Finds uncle of a node
  *                     in binary tree.
  * @node: A pointer to node to find uncle of.
+ *
  * Return: If node is NULL or has no uncle, NULL.
  *         Otherwise, pointer to uncle node.
  */
