@@ -6,7 +6,7 @@
  					left-child of another node
  *Description:function that inserts a node as the left-child
  					of another node
- *@perant:is the root node
+ *@perant:is a pointer to root node
  *@value:is a data in the node
  *Return:binary tree
  */
