@@ -8,8 +8,9 @@
  				of another node
  *@perant:is the root node
  *@value:is a data in the node
- *Return:binary tree
+ *Return:NULL or pointer 
  */
+
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 {
 	binary_tree_t *new_node;
