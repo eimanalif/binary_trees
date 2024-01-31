@@ -11,6 +11,9 @@
       "intelliSenseMode": "windows-gcc-x64",
       "compilerArgs": [
         ""
+      ],
+      "defines": [
+        "GCC"
       ]
     }
   ],
