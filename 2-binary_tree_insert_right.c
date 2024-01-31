@@ -7,8 +7,7 @@
  * Description: Function that inserts a node as the right-child
  *				of another node If parent already has a right-child,
  *				the new node takes its place and the old right-child is
- *				set as
- *              the right-child of the new node.
+ *				set as the right-child of the new node.
  * @perant: A pointer to the node.
  * @value: Is a data in the node.
  * Return: NULL or pointer. 
